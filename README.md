@@ -1,6 +1,6 @@
 <!-- PROFIL GITHUB README -->
 
-<h1 align="center">👋 Hi, &lt;coders/&gt;</h1>
+**<h1 align="center"> ![gif](Hi.gif) Hi, &lt;coders/&gt;</h1>**
 
 ![Gambar](banner.png)
 
@@ -11,7 +11,6 @@
 ### 🧠 About Me
 
 - 🔭 I’m currently learning **Web Development** (HTML, CSS, PHP, MySQL)
-- 🧱 I also love building worlds in **Minecraft** (especially creative builds!)
 - 🌱 I’m improving my skills in **backend logic and database management**
 - 🎯 My goal: become a full-stack developer and create interactive experiences
 
